@@ -35,8 +35,9 @@ This project allows users to rent and return bikes, manage customer details, and
 - H101 - Bajaj - Pulsar NS125
 - H102 - Honda - CB350
 - H103 - TVS - Jupiter
-# Enter Bike ID to Rent: H101
-# Enter number of rental days: 3
+  
+- Enter Bike ID to Rent: H101
+- Enter number of rental days: 3
 
 
 
