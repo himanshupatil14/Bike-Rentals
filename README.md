@@ -25,29 +25,30 @@ This project allows users to rent and return bikes, manage customer details, and
 2. Return a Bike
 3. Exit
 - Enter your choice: 1
-
+----------------------------------
 - Enter Name: Himanshu
 - Enter Phone No: 8390870115
 - Enter Document: Aadhar Card
 - Enter Address: Pune
-
+----------------------------------
 --- Available Bikes ---
 - H101 - Bajaj - Pulsar NS125
 - H102 - Honda - CB350
 - H103 - TVS - Jupiter
-  
+----------------------------------
  Enter Bike ID to Rent: H101
  Enter number of rental days: 3
 
-
+----------------------------------
 --- Rental Details ---
 - Customer Name: Himanshu
 - Phone: 8390870115
 - Bike: Bajaj Pulsar NS125
 - Days: 3
 - Total Price: ₹900.00
- 
+----------------------------------
 - Confirm rental (Y/N)? Y
+----------------------------------
 - Bike rented successfully!
 - Thank You
 
