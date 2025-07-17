@@ -41,9 +41,9 @@ This project allows users to rent and return bikes, manage customer details, and
 
 
 --- Rental Details ---
- Customer Name: Himanshu
- Phone: 8390870115
- Bike: Bajaj Pulsar NS125
+- Customer Name: Himanshu
+- Phone: 8390870115
+- Bike: Bajaj Pulsar NS125
  Days: 3
  Total Price: ₹900.00
  
