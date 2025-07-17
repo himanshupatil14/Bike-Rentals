@@ -21,14 +21,14 @@ This project allows users to rent and return bikes, manage customer details, and
 
 ##  Sample Console Output
 --- Bike Rental System ---
-- Add multiple bikes to the system
+1. Rent a Bike
 - Rent a bike by entering customer details
 - Show only available bikes for rent
 - Calculate total rental price based on per-day rate
 - Return a bike and remove it from active rentals
 - Input validation and status messages for user guidance
 
-1.Rent a Bik
+1.
 2.Return a Bike
 3.Exit
 Enter your choice: 1
