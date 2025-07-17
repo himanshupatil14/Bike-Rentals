@@ -23,27 +23,30 @@ This project allows users to rent and return bikes, manage customer details, and
 --- Bike Rental System ---
 1. Rent a Bike
 2. Return a Bike
-- Show only available bikes for rent
-- Calculate total rental price based on per-day rate
-- Return a bike and remove it from active rentals
-- Input validation and status messages for user guidance
+3. Exit
+- Enter your choice: 1
 
-1.
-2.Return a Bike
-3.Exit
-Enter your choice: 1
+- Enter Name: Himanshu
+- Enter Phone No: 8390870115
+- Enter Document: Aadhar Card
+- Enter Address: Pune
 
-Enter Name: Himanshu
-Enter Phone No: 8390870115
-Enter Document: Aadhar Card
-Enter Address: Pune
+#Available Bikes:
+- H101 - Bajaj - Pulsar NS125
+- H102 - Honda - CB350
+- H103 - TVS - Jupiter
+# Enter Bike ID to Rent: H101
+# Enter number of rental days: 3
+
+
+
+
 
 Available Bikes:
-H101 - Bajaj - Pulsar NS125
-H102 - Honda - CB350
 
-Enter Bike ID to Rent: H101
-Enter number of rental days: 3
+
+
+
 
 --- Rental Details ---
 Customer Name: Himanshu
