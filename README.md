@@ -8,7 +8,7 @@ This project allows users to rent and return bikes, manage customer details, and
 -  **Composition**: The Rental class is composed of Bike and Customer objects.
 -  **Modular Design**: Code is divided into logical classes (Bike, Customer, Rental, System, Main).
 
-## 🛠 Features
+##  Features
 
 - Add multiple bikes to the system
 - Rent a bike by entering customer details
@@ -22,7 +22,7 @@ This project allows users to rent and return bikes, manage customer details, and
 ##  Sample Console Output
 --- Bike Rental System ---
 
-1.Rent a Bike
+1.Rent a Bik
 2.Return a Bike
 3.Exit
 Enter your choice: 1
